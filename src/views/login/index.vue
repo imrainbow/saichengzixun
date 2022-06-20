@@ -1,13 +1,11 @@
 <template>
-  <div id="app">
-    <h1>赛诚科技</h1>
-    <router-view></router-view>
-  </div>
+  <div class="login-container">登陆页面</div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'LoginIndex'
+
 }
 </script>
 
